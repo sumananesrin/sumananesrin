@@ -1,98 +1,95 @@
-# Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm SUMANA
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&width=500&lines=Cloud+%26+DevOps+Engineer;Full-Stack+Developer+Enthusiast)
+# Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Sumana 👩‍💻
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&width=600&lines=Software+Developer;Full-Stack+Engineer;React+%7C+Django+Developer)
 
-☁️ Passionate about **Cloud, DevOps, and Automation** — I specialize in designing scalable infrastructures, automating deployments, and ensuring system reliability.  
-⚙️ Skilled in **AWS, Azure, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines**, I thrive on building modern cloud-native solutions.  
-💻 Alongside my DevOps journey, I also enjoy **full-stack development (MERN stack)** to create end-to-end applications that connect seamlessly with cloud environments. 
- 
----
-
-## 🌟 About Me  
-
-- 🔭 I’m currently working on **SM-APP Project** (React + Kubernetes + Terraform + EKS)  
-- 👯 I’m looking to collaborate on **Cloud & DevOps projects**  
-- 🌱 Experienced in **AWS, Docker, Iac, Kubernetes, CI/CD Security, and Cloud-native architectures**  
-- 💬 Ask me about **React, Node.js, Docker, Kubernetes, Terraform, AWS & Azure**  
-- 📫 Reach me at **connectnibras@gmail.com**  
-- 📄 Know more about my experiences → [Resume](https://drive.google.com/file/d/1YpNzVuhmY5LWr4tn0N4qM6z53Z7scvIu/view?usp=sharing)  
-- 🏆 Passionate about contributing to **open-source projects** and sharing knowledge with the tech community  
-- ⚡ Fun fact: I believe coffee + code = great ideas ☕💡
+🚀 **Full-Stack Software Developer** with 2+ years of experience building modern, scalable, and high-performance web applications.  
+💡 Strong in **React, Django, Python, REST APIs, and MySQL**, with hands-on experience delivering real-world production systems.  
+☁️ Actively collaborating with **AWS & DevOps teams** to support CI/CD pipelines and cloud deployments.
 
 ---
 
+## 🌟 About Me
 
-## 🛠️ Skills & Tools  
+- 🔭 Currently working as **Full Stack Developer at Servoo General Trading LLC (Abu Dhabi)**  
+- 🛒 Building a **Grocery E-commerce Platform** (React + Django + MySQL)  
+- 🌱 Experienced in **React, Tailwind, Bootstrap, Django, REST APIs, and Database Optimization**  
+- 🤝 Worked closely with **AWS/DevOps teams** on deployments & CI/CD workflows  
+- 💬 Ask me about **React, Django, REST APIs, UI Optimization, MySQL**  
+- 📫 Reach me at **sumananesrin1@gmail.com**  
+- 📄 Resume → *(Add your Google Drive link here)*  
+- ⚡ Fun fact: I love turning complex requirements into clean UI & efficient backend logic ✨
 
-### Cloud & DevOps / Monitoring  
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=prometheus" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=grafana" />
-</p>
-
-### Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=c" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=python" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=javascript" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
-### Frontend Development  
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=html" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-### Backend Development  
+### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=django" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Databases  
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
-### Tools & Software  
+### Tools & Collaboration
 <p>
   <img src="https://skillicons.dev/icons?i=git" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Professional Experience Highlight
+
+**Full Stack Developer – Servoo General Trading LLC (Abu Dhabi)**  
+- Developed scalable **React + Django** modules for grocery e-commerce  
+- Improved UI responsiveness & performance by **90%+**  
+- Optimized APIs & MySQL queries reducing response time by **85%**  
+- Built admin dashboards & delivery systems cutting manual work by **85%**  
+- Collaborated with **AWS/DevOps teams** on CI/CD & deployments  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nibras-S&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nibras-S&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/nibras-s2002" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-  <a href="https://github.com/Nibras-S" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://www.instagram.com/_mohd_nibras?igsh=MWpuYnFhbGJoYnMwZA%3D%3D&utm_source=qr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
